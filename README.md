@@ -11,6 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/soumya rathore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soumya rathore" height="30" width="40" /></a>
 <a href="https://fb.com/soumya rathore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="soumya rathore" height="30" width="40" /></a>
+<a href="https://instagram.com/soumya_51" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soumya_51" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
