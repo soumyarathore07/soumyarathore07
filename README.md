@@ -1,4 +1,5 @@
-
+<h1 align="center">Hi 👋, I'm Soumya Rathore</h1>
+<h3 align="center">As a web developer, I am driven by a passion for creating innovative and dynamic online experiences.</h3>
 <h3 align="center">As a web developer, I am driven by a passion for creating innovative and dynamic online experiences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyarathore07&label=Profile%20views&color=0e75b6&style=flat" alt="soumyarathore07" /> </p>
